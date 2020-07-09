@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="notebookmanipulation-pkg-ALPHA", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Lisa Cao, David Hays, with Contributions from Cybera",
     author_email="lisa.cao@cybera.ca",
     description="A simple package made by Callysto containing various functions to maintain and update Jupyter Notebooks. Written with educators in mind.",
@@ -20,7 +20,6 @@ setuptools.setup(
         "Development Status :: 2 - Pre-Alpha",
         "Framework :: Jupyter",
         "Programming Language :: Python :: 3",
-        "License :: GNU General Public License v3 (GPLv3)",
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.7',
