@@ -11,7 +11,7 @@ import json
 import pandas as pd
 
 ################################### generate-links-for-youtube-videos.ipynb
-def nbg(notebook_name):
+def nbgiturl(notebook_name):
     a = 'https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo='
     repo_path = 'https%3A%2F%2Fgithub.com%2Fcallysto%2Finteresting-problems&branch=main'
     nbgitpuller_url = a+repo_path+'&subPath=notebooks/'+notebook_name+'&depth=1'
