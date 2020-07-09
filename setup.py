@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="notebookmanipulation-pkg-LISANCAO", # Replace with your own username
+    name="notebookmanipulation-pkg-ALPHA", # Replace with your own username
     version="0.0.1",
     author="Lisa Cao, David Hays, with Contributions from Cybera",
     author_email="lisa.cao@cybera.ca",
@@ -20,7 +20,7 @@ setuptools.setup(
         "Development Status :: 2 - Pre-Alpha",
         "Framework :: Jupyter",
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+        "License :: GNU General Public License v3 (GPLv3)",
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.7',
