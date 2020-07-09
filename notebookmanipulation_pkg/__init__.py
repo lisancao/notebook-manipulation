@@ -10,4 +10,4 @@ import notebookformatter
 import notebookchecks
 import googleslides
 import imageverify
-
+import textcheck
