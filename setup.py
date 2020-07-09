@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jul  9 14:49:20 2020
-
-@author: lisacao
-"""
-
 
 import setuptools
 
@@ -23,8 +17,10 @@ setuptools.setup(
     url="https://github.com/lisancao/notebook-manipulation/tree/package_development",
     packages=setuptools.find_packages(),
     classifiers=[
+        "Development Status :: 2 - Pre-Alpha",
+        "Framework :: Jupyter",
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: GPL3 License",
+        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.7',
