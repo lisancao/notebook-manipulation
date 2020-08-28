@@ -11,3 +11,6 @@ Crawl directories with multiple notebooks and check cell contents for the follow
 
 ** THIS PACKAGE IS STILL UNDER EARLY DEVELOPMENT.**
 If you would like to raise and issue, please do so here: https://github.com/lisancao/notebook-manipulation
+
+
+PyPi: https://pypi.org/project/notebookmanipulation-pkg-ALPHA/#description
